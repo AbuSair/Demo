@@ -1,2 +1,2 @@
 # Demo
-Just s quick start
+Just a fresh start
